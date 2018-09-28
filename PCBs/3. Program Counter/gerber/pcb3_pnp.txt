@@ -1,0 +1,41 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=pcb3
+*Date=13:56:10
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;46.4758;-7.85552;0;Bottom;Jumper11
+2;220;THT;43.7961;-31.3505;-90;Bottom;R1
+3;;;23.6158;-31.3505;0;Bottom;Jumper10
+4;;3 mm [THT];45.2059;-38.3915;0;Bottom;Q1
+5;;;99.7135;-25.2296;0;Bottom;TXT1
+6;220;THT;41.2561;-31.3505;-90;Bottom;R2
+7;;3 mm [THT];40.1262;-38.5036;0;Bottom;Q2
+8;;;76.9558;-19.9205;0;Bottom;Jumper7
+9;;3 mm [THT];35.0462;-38.5036;0;Bottom;Q3
+10;220;THT;46.3361;-31.3505;-90;Bottom;R4
+11;;DIP (Dual Inline) [THT];35.039;-21.2535;-90;Bottom;74245
+12;;;72.5108;-14.8405;0;Bottom;Jumper6
+13;;;100.222;-11.8446;0;Bottom;TXT1
+14;;3 mm [THT];50.2859;-38.3915;0;Bottom;Q0
+15;;;99.9962;-14.4789;0;Bottom;TXT1
+16;;;13.1439;-41.5585;0;Bottom;TXT2
+17;;;54.0958;-30.0805;0;Bottom;Jumper8
+18;;;85.8458;-30.0805;0;Bottom;Jumper9
+19;;THT;4.56579;-11.0305;0;Bottom;P-inputs
+20;;;101.596;-17.2337;0;Bottom;TXT1
+21;;THT;94.7358;-16.1105;0;Bottom;Controller
+22;;;71.2408;-12.3005;0;Bottom;Jumper5
+23;;THT;4.56579;-21.1905;0;Bottom;RegInput
+24;220;THT;38.7161;-31.3505;-90;Bottom;R5
+25;;;99.7231;-20.0031;0;Bottom;TXT1
+26;;DIP (Dual Inline) [THT];66.789;-21.2535;-90;Bottom;74161

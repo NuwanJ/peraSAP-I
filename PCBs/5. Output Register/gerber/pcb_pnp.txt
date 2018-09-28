@@ -1,0 +1,64 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=pcb
+*Date=21:46:07
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;57.7144;-43.33;0;Bottom;Jumper1
+2;1k;THT;65.3344;-61.11;-90;Bottom;R2
+3;;THT;11.9944;-62.38;0;Bottom;J9
+4;;THT;24.6944;-43.33;0;Bottom;J7
+5;;;47.5544;-31.9;0;Bottom;Jumper5
+6;10k;1206 [SMD];93.5544;-30.63;-180;Bottom;R3
+7;;THT;45.0144;-45.87;0;Bottom;J29
+8;;DIP (Dual Inline) [THT];88.1944;-49.68;-90;Bottom;7476
+9;;THT;48.8244;-49.68;0;Bottom;J5
+10;1k;THT;62.7944;-61.11;-90;Bottom;R1
+11;;DIP8 [THT];64.0644;-49.68;-90;Bottom;U1
+12;;THT;33.5844;-6.5;-90;Bottom;J28
+13;;;72.9544;-48.41;0;Bottom;Jumper3
+14;;THT;85.6544;-16.66;0;Bottom;J21
+15;;THT;76.7644;-29.36;-90;Bottom;J16
+16;;THT;94.5444;-24.28;0;Bottom;J27
+17;;DIP (Dual Inline) [THT];80.5744;-15.39;90;Bottom;7404
+18;;;106.164;-66.0002;0;Bottom;Hole1
+19;;THT;31.0444;-52.22;0;Bottom;J12
+20;;DIP (Dual Inline) [THT];81.8444;-30.63;-90;Bottom;74139
+21;;;4.56418;-3.58033;0;Bottom;Hole3
+22;;THT;11.9944;-42.06;0;Bottom;J11
+23;;THT;80.5744;-16.66;0;Bottom;J20
+24;;THT;92.0044;-57.3;180;Bottom;J15
+25;;THT;36.1244;-28.09;-90;Bottom;J25
+26;;THT;33.5844;-49.68;0;Bottom;Part1
+27;;;106.382;-27.9959;0;Bottom;TXT1
+28;;;4.56418;-66.0002;0;Bottom;Hole4
+29;;THT;27.2344;-28.09;0;Bottom;J26
+30;;THT;55.1744;-49.68;0;Bottom;J17
+31;;THT;81.8444;-57.3;180;Bottom;J14
+32;;THT;33.5844;-9.04;-90;Bottom;J24
+33;;;106.354;-3.58033;0;Bottom;Hole2
+34;;THT;4.37444;-48.41;0;Bottom;J1
+35;;THT;51.3644;-59.84;180;Bottom;J18
+36;;THT;22.1544;-38.25;0;Bottom;J6
+37;10nF;100 mil [THT, tantalum];69.1444;-63.65;180;Bottom;C2
+38;;;110.35;-25.1126;0;Bottom;TXT1
+39;;THT;33.5844;-24.28;-90;Bottom;J23
+40;;THT;36.1244;-36.98;180;Bottom;J13
+41;10nF;100 mil [THT, tantalum];69.1444;-58.57;180;Bottom;C1
+42;;DIP (Dual Inline) [THT];18.3444;-52.22;0;Bottom;74273
+43;;THT;97.0844;-24.28;0;Bottom;J4
+44;;;105.442;-33.5969;0;Bottom;TXT1
+45;;THT;24.6944;-50.95;0;Bottom;J8
+46;;;17.0744;-36.98;0;Bottom;Jumper4
+47;;THT;11.9944;-52.22;0;Bottom;J10
+48;;;78.0344;-18.565;0;Bottom;Jumper2
+49;;;26.5994;-54.125;0;Bottom;Jumper6

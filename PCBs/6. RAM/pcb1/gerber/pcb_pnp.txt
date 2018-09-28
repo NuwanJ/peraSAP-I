@@ -1,0 +1,77 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=pcb
+*Date=17:28:35
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;3 mm [THT];35.9265;-53.4337;0;Bottom;LED7
+2;;;31.4962;-15.9139;0;Bottom;Jumper5
+3;;3 mm [THT];9.25658;-53.4337;0;Bottom;LED12
+4;;;34.0362;-29.8839;0;Bottom;Jumper2
+5;;3 mm [THT];30.8465;-53.4337;0;Bottom;LED8
+6;;THT;67.6764;-7.02264;-90;Bottom;J13
+7;;THT;9.25644;-20.9926;0;Bottom;J19
+8;220;1206 [SMD];56.2464;-60.0826;-90;Bottom;R6
+9;;;67.6764;-10.8326;0;Bottom;Jumper10
+10;;THT;67.6764;-34.9626;-90;Bottom;J15
+11;;;67.6764;-24.8026;0;Bottom;Jumper12
+12;;THT;67.6764;-40.0426;-90;Bottom;J14
+13;;3 mm [THT];66.4065;-53.4337;0;Bottom;LED1
+14;;THT;87.9964;-32.4226;-90;Bottom;J18
+15;;THT;55.0058;-17.1852;-90;Bottom;J8
+16;;THT;67.6764;-17.1826;-90;Bottom;J11
+17;;DIP (Dual Inline) [THT];51.1958;-23.5352;-90;Bottom;74189
+18;220;1206 [SMD];30.8464;-60.0827;-90;Bottom;R1
+19;220;1206 [SMD];51.1664;-60.0826;-90;Bottom;R5
+20;;;36.5762;-17.1839;0;Bottom;Jumper1
+21;;3 mm [THT];41.0065;-53.4337;0;Bottom;LED4
+22;220;1206 [SMD];41.0064;-60.0826;-90;Bottom;R3
+23;;3 mm [THT];56.2465;-53.4337;0;Bottom;LED3
+24;220;1206 [SMD];19.4164;-60.0826;-90;Bottom;R10
+25;;THT;11.7964;-29.8826;0;Bottom;RAM Out
+26;220;1206 [SMD];35.9264;-60.0826;-90;Bottom;R2
+27;220;1206 [SMD];9.25644;-60.0826;-90;Bottom;R12
+28;;DIP (Dual Inline) [THT];94.3464;-23.5326;0;Bottom;74245
+29;;3 mm [THT];19.4166;-53.4337;0;Bottom;LED10
+30;;THT;67.6764;-12.1026;-90;Bottom;J12
+31;;;14.3364;-26.0726;0;Bottom;Jumper13
+32;;;39.1162;-32.4239;0;Bottom;Jumper4
+33;;THT;48.6263;-47.6627;-90;Bottom;J2
+34;;THT;67.6764;-29.8826;-90;Bottom;J16
+35;;3 mm [THT];61.3265;-53.4337;0;Bottom;LED2
+36;220;1206 [SMD];66.4064;-60.0826;-90;Bottom;R8
+37;;3 mm [THT];24.4966;-53.4337;0;Bottom;LED9
+38;;THT;87.9964;-26.0726;0;Bottom;J17
+39;;;57.5017;-34.3263;0;Bottom;Jumper7
+40;;;15.6064;-15.9126;0;Bottom;Jumper11
+41;;THT;41.0064;-45.1226;-90;Bottom;J3
+42;;DIP (Dual Inline) [THT];74.0264;-12.1026;0;Bottom;7404
+43;;;36.5762;-31.1539;0;Bottom;Jumper3
+44;;THT;100.696;-32.4226;0;Bottom;RAM Out
+45;;DIP (Dual Inline) [THT];29.5764;-23.5326;-90;Bottom;74189
+46;;THT;33.3864;-17.1826;-90;Bottom;J6
+47;;THT;87.9964;-19.7226;0;Bottom;J10
+48;;;40.3714;-36.8676;0;Bottom;Jumper6
+49;;THT;105.776;-20.9926;180;Bottom;J9
+50;;DIP (Dual Inline) [THT];74.0264;-34.9626;0;Bottom;7404
+51;;THT;51.1664;-45.1226;-90;Bottom;J4
+52;;THT;28.3064;-17.1826;-90;Bottom;J5
+53;;;70.2164;-29.8826;0;Bottom;Jumper9
+54;;3 mm [THT];14.3366;-53.4337;0;Bottom;LED11
+55;;THT;49.9258;-17.1852;-90;Bottom;J7
+56;;3 mm [THT];51.1665;-53.4337;0;Bottom;LED6
+57;220;1206 [SMD];14.3364;-60.0826;-90;Bottom;R11
+58;220;1206 [SMD];24.4964;-60.0826;-90;Bottom;R9
+59;220;1206 [SMD];46.0864;-60.0826;-90;Bottom;R4
+60;;;56.2464;-38.1376;0;Bottom;Jumper8
+61;;3 mm [THT];46.0865;-53.4337;0;Bottom;LED5
+62;220;1206 [SMD];61.3264;-60.0826;-90;Bottom;R7

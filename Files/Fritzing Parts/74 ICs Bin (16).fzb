@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806" icon="Temp.png">
+    <title>74 ICs</title>
+    <instances>
+        <instance moduleIdRef="7400 NAND_56c665e968d0d9923d3583d51c10506f_1" modelIndex="5771" path="C:/Users/Nuwan/Documents/Fritzing/parts/contrib/7400 NAND_56c665e968d0d9923d3583d51c10506f_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="7402_9ff51786ccb8b2db050c98cfba5293f1_1" modelIndex="5773" path="C:/Users/Nuwan/Documents/Fritzing/parts/contrib/7402_9ff51786ccb8b2db050c98cfba5293f1_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="7404_a73d2db1de51956dcb1394ed34f43b5f_1" modelIndex="5775" path="C:/Users/Nuwan/Documents/Fritzing/parts/contrib/7404_a73d2db1de51956dcb1394ed34f43b5f_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="7408_bbbf857a3c0aeb2332246c838e1c18db_3" modelIndex="5777" path="C:/Users/Nuwan/Documents/Fritzing/parts/contrib/7408_bbbf857a3c0aeb2332246c838e1c18db_3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="7432 OR_d9907546d7c92ed2ed9fb68064f1216e_1" modelIndex="5779" path="C:/Users/Nuwan/Documents/Fritzing/parts/contrib/7432 OR_d9907546d7c92ed2ed9fb68064f1216e_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="7486_aaef8bdc9246fdb9f640b3c89ab08ad1_1" modelIndex="5783" path="C:/Users/Nuwan/Documents/Fritzing/parts/contrib/7486_aaef8bdc9246fdb9f640b3c89ab08ad1_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="74138_c908be75045e11b2b87e4d1d255418bf_1" modelIndex="85544789" path="C:/Users/Nuwan/Documents/Fritzing/parts/contrib/74138_c908be75045e11b2b87e4d1d255418bf_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="74139_c908be75045e11b2b87e4d1d255418bf_4" modelIndex="85544790" path="C:/Users/Nuwan/Documents/Fritzing/parts/contrib/74139_c908be75045e11b2b87e4d1d255418bf_4.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="74157_14c54610e5af7ac8024a7bdd15d8b9af_1" modelIndex="85544810" path="C:/Users/Nuwan/Documents/Fritzing/parts/contrib/74157_14c54610e5af7ac8024a7bdd15d8b9af_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="74161_3e167ccad18ba4a31f7342281b113ed0_1" modelIndex="85544846" path="C:/Users/Nuwan/Documents/Fritzing/parts/contrib/74161_3e167ccad18ba4a31f7342281b113ed0_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="74173_7f64df269d9f78d7fc9b404df537a65d_1" modelIndex="85544898" path="C:/Users/Nuwan/Documents/Fritzing/parts/contrib/74173_7f64df269d9f78d7fc9b404df537a65d_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="74189_055f5c54308ce2554443bc94473ba3ba_1" modelIndex="85544912" path="C:/Users/Nuwan/Documents/Fritzing/parts/contrib/74189_055f5c54308ce2554443bc94473ba3ba_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="74245_ca264cd8e3c3d4c3c5c74250c290b9e3_1" modelIndex="85544928" path="C:/Users/Nuwan/Documents/Fritzing/parts/contrib/74245_ca264cd8e3c3d4c3c5c74250c290b9e3_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="74273_97a0e1395bdeac17f0dd76a4db0b9dee_1" modelIndex="85544961" path="C:/Users/Nuwan/Documents/Fritzing/parts/contrib/74273_97a0e1395bdeac17f0dd76a4db0b9dee_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="7476_cb3876ebba98cf1e26d8eda5249b68e0_1" modelIndex="85544987" path="C:/Users/Nuwan/Documents/Fritzing/parts/user/7476_cb3876ebba98cf1e26d8eda5249b68e0_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="74283_01e9f26685d68e8025bda07442ce5d04_1" modelIndex="85544999" path="C:/Users/Nuwan/Documents/Fritzing/parts/user/74283_01e9f26685d68e8025bda07442ce5d04_1.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>

@@ -1,0 +1,83 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=pcb2
+*Date=20:09:31
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;1µF;100 mil [THT, tantalum];36.173;-7.64689;0;Bottom;C1
+2;1k;THT;27.283;-7.64689;180;Bottom;R2
+3;;;39.983;-42.5719;0;Bottom;Jumper10
+4;;dipswitch-02;36.173;-72.4169;0;Bottom;SW2
+5;;THT;83.163;-41.9369;0;Bottom;J20
+6;;;53.953;-38.7619;0;Bottom;Jumper5
+7;;;32.998;-13.9969;0;Bottom;Jumper20
+8;;dipswitch-08;60.303;-72.4169;0;Bottom;SW1
+9;;THT;10.773;-50.8269;180;Bottom;J28
+10;;THT;33.633;-41.9369;0;Bottom;J25
+11;;THT;86.973;-27.9669;-90;Bottom;J33
+12;470;1206 [SMD];4.42311;-61.2669;-90;Bottom;R1
+13;;;74.908;-22.8869;0;Bottom;Jumper17
+14;;THT;64.113;-25.4269;0;Bottom;J38
+15;;[THT];43.0828;-20.6368;180;Bottom;S1
+16;;;61.573;-59.7169;0;Bottom;Jumper7
+17;;THT;88.243;-25.4269;0;Bottom;J39
+18;;DIP (Dual Inline) [THT];57.763;-16.5369;0;Bottom;74157
+19;;THT;59.033;-25.4269;0;Bottom;J41
+20;;;36.173;-42.5719;0;Bottom;Jumper11
+21;;DIP (Dual Inline) [THT];86.973;-16.5369;0;Bottom;74173
+22;;;88.243;-37.4919;0;Bottom;Jumper1
+23;;DIP (Dual Inline) [THT];32.363;-48.2869;-90;Bottom;74157
+24;;THT;33.633;-25.4269;0;Bottom;J37
+25;;THT;73.003;-41.9369;0;Bottom;J17
+26;;THT;51.413;-41.9369;0;Bottom;J42
+27;;THT;59.033;-49.5569;0;Bottom;J12
+28;;DIP (Dual Inline) [THT];57.763;-48.2869;-90;Bottom;74157
+29;;;64.113;-37.4919;0;Bottom;Jumper3
+30;;DIP (Dual Inline) [THT];81.893;-48.2869;-90;Bottom;74157
+31;;;66.653;-32.4119;0;Bottom;Jumper19
+32;;3 mm [THT];5.07421;-68.6068;90;Bottom;LED2
+33;;THT;57.763;-66.0669;-90;Bottom;J21
+34;;dipswitch-02;29.823;-72.4169;0;Bottom;SW3
+35;;;85.703;-59.7169;0;Bottom;Jumper9
+36;;THT;31.093;-54.6369;0;Bottom;J30
+37;;;46.968;-57.1769;0;Bottom;Jumper18
+38;;3 mm [THT];5.07421;-73.6868;90;Bottom;LED1
+39;;THT;83.163;-49.5569;0;Bottom;J15
+40;;;80.623;-37.4919;0;Bottom;Jumper2
+41;;THT;99.673;-16.5369;180;Bottom;J27
+42;;;32.363;-54.0019;0;Bottom;Jumper14
+43;;THT;34.903;-33.0469;-90;Bottom;J34
+44;;THT;66.653;-49.5569;0;Bottom;J13
+45;;;53.953;-59.0819;0;Bottom;Jumper6
+46;;THT;28.553;-25.4269;0;Bottom;J40
+47;;;78.083;-59.7169;0;Bottom;Jumper8
+48;;;56.493;-37.4919;0;Bottom;Jumper4
+49;;THT;48.873;-41.9369;0;Bottom;J16
+50;;THT;38.713;-54.6369;0;Bottom;J29
+51;;;17.123;-44.4769;0;Bottom;Jumper21
+52;;THT;13.313;-71.1469;0;Bottom;J23
+53;;THT;34.903;-66.0669;0;Bottom;J26
+54;;THT;93.323;-52.0969;0;Bottom;J14
+55;;;17.758;-59.7169;0;Bottom;Jumper16
+56;;THT;18.393;-71.1469;0;Bottom;J22
+57;;THT;80.623;-17.8069;0;Bottom;J31
+58;;;36.173;-55.9069;0;Bottom;Jumper15
+59;;THT;23.473;-35.5869;0;Bottom;J36
+60;;THT;99.673;-58.4469;180;Bottom;J9
+61;;THT;51.413;-17.8069;0;Bottom;J43
+62;;DIP (Dual Inline) [THT];27.283;-17.8069;0;Bottom;7400
+63;;THT;23.473;-41.9369;0;Bottom;J24
+64;;THT;36.173;-41.9369;0;Bottom;J35
+65;;THT;79.353;-30.5069;90;Bottom;J10
+66;;THT;75.543;-41.9369;0;Bottom;J19
+67;;THT;76.813;-33.0469;-90;Bottom;J32
+68;;THT;13.313;-54.6369;0;Bottom;J44
